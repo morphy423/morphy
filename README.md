@@ -1,2 +1,2 @@
-# morphy
+# nudt本科毕业设计模板
 本工作围绕国防科技大学本科毕业论文LaTeX模板展开系统性修改与适配。基于nudtpaper文档类，采用XeLaTeX编译引擎，对模板类文件nudtpaper.cls及主文件main.tex进行深度定制，以严格契合学校论文撰写规范。
